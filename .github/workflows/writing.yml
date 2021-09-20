@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.2.5
         with:
           commit_message: "🤖 Updated readme with the latest post data"
-          feed_list: "https://notiz.blog/feed/"
+          feed_list: "https://notiz.blog/feed/,https://openwebpodcast.de/feed/"
           max_post_count: "5"
