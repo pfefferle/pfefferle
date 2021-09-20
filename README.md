@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Latest Blog Posts 📕
+## Latest Blog Posts 📚 (🇩🇪)
 <!-- BLOG-POST-LIST:START -->
 - [Lei parla inglese?](https://notiz.blog/2021/06/10/lei-parla-inglese/)
 - [Hier & Jetzt – Open Web 7: Dezentrales Twitter und dezentrales Clubhouse?](https://notiz.blog/2021/03/05/hier-jetzt-open-web-7-dezentrales-twitter-und-dezentrales-clubhouse/)
