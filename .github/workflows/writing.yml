@@ -1,0 +1,19 @@
+name: Fetch posts
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-articles:
+    name: Update this repo's README with Matthias' latest articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@1.2.5
+        with:
+          commit_message: "🤖 Updated readme with the latest post data"
+          feed_list: "https://notiz.blog/feed/"
+          max_post_count: "5"
+          readme_path: ./profile/README.md
