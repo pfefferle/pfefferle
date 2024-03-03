@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Latest Blog Posts 📚 (🇩🇪)
 <!-- BLOG-POST-LIST:START -->
