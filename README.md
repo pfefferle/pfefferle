@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![ASCII version of me](ascii-green.gif "ASCII version of me")
+
 ## Latest Blog Posts 📚 (🇩🇪)
 <!-- BLOG-POST-LIST:START -->
 - [ASCIIerle](https://notiz.blog/2024/06/02/asciierle/)
