@@ -4,9 +4,9 @@
 
 ## Latest Blog Posts 📚 (🇩🇪)
 <!-- BLOG-POST-LIST:START -->
-- [neunetzcast 96: Threads und die Zukunft von ActivityPub bei WordPress.com](https://openwebpodcast.de/1883/neunetzcast-96/)
-- [neunetzcast 94: Mastodon und ActivityPub haben den Tipping-Point überschritten](https://openwebpodcast.de/1882/neunetzcast-94/)
-- [neunetzcast 93: Was wir unter Dezentralität verstehen und was wir uns davon erhoffen](https://openwebpodcast.de/1881/neunetzcast-93/)
-- [neunetzcast 86: Was machen W3C und co. für dezentrale Social Networks?](https://openwebpodcast.de/1880/neunetzcast-86/)
-- [Hier & Jetzt – Open Web 7: Dezentrales Twitter und dezentrales Clubhouse?](https://openwebpodcast.de/1879/hier-und-jetzt-open-web-7/)
+- [𝍤𝍤𝍤𝍣](https://notiz.blog/2024/12/07/19/)
+- [notiz.pulli](https://notiz.blog/2024/11/08/notiz-pulli/)
+- [The Fediverse Files](https://notiz.blog/2024/09/13/the-fediverse-files/)
+- [Praise RSS through RSS](https://notiz.blog/rss-club/praise-rss-through-rss/)
+- [.well-known, OPML & XSLT](https://notiz.blog/rss-club/well-known-opml-xslt/)
 <!-- BLOG-POST-LIST:END -->
