@@ -36,10 +36,10 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-pretty-feeds">pfefferle/wordpress-pretty-feeds: ★7</a>
 * <a href="https://github.com/pfefferle/dash-slimframework">pfefferle/dash-slimframework: ★6</a>
 * <a href="https://github.com/pfefferle/wordpress-indie-pubsubhubbub">pfefferle/wordpress-indie-pubsubhubbub: ★6</a>
+* <a href="https://github.com/pfefferle/wordpress-well-known-feeds">pfefferle/wordpress-well-known-feeds: ★6</a>
 * <a href="https://github.com/pfefferle/wordpress-host-meta">pfefferle/wordpress-host-meta: ★5</a>
 * <a href="https://github.com/pfefferle/dash-openwebicons">pfefferle/dash-openwebicons: ★5</a>
 * <a href="https://github.com/wapuugotchi/collections">wapuugotchi/collections: ★5</a>
-* <a href="https://github.com/pfefferle/wordpress-well-known-feeds">pfefferle/wordpress-well-known-feeds: ★5</a>
 * <a href="https://github.com/pfefferle/wordpress-twitter-creator">pfefferle/wordpress-twitter-creator: ★4</a>
 * <a href="https://github.com/pfefferle/dash-microformats">pfefferle/dash-microformats: ★4</a>
 * <a href="https://github.com/pfefferle/dash-spdx-licenses">pfefferle/dash-spdx-licenses: ★4</a>
