@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★46</a>
 * <a href="https://github.com/pfefferle/.editorconfigs">pfefferle/.editorconfigs: ★43</a>
 * <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★37</a>
-* <a href="https://github.com/fediverse-devnet/feditest">fediverse-devnet/feditest: ★34</a>
+* <a href="https://github.com/fediverse-devnet/feditest">fediverse-devnet/feditest: ★35</a>
 * <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky: ★33</a>
 * <a href="https://github.com/WebOrganics/TransFormr">WebOrganics/TransFormr: ★32</a>
 * <a href="https://github.com/indieweb/wordpress-indieauth">indieweb/wordpress-indieauth: ★31</a>
