@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 1156 times)\n2. added (used 906 times)\n3. merge (used 815 times)\n4. update (used 733 times)\n5. add (used 720 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 1158 times)\n2. added (used 906 times)\n3. merge (used 816 times)\n4. update (used 735 times)\n5. add (used 725 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/ad5788ba3df1c4f4160478bf59727e26fbe5ef6c\">ad5788b</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/708c592e63e1aa7300f1cb4b2fd91e59c9d948c1\">708c592</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/6d5c76fb1aa3cdff6ab47d1380f843b3de33c5f0\">6d5c76f</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/e5da3a5d09f1b3a298fcc3ba7b42e806116ca5a0\">e5da3a5</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/63c32bf108fede061f28af2f24a690c75983c39e\">63c32bf</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/2f5f0d698eee068ab46262d7be17158b89d2bdf0\">2f5f0d6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/759de2e0e33989b5c78bdf4f7cb14629e1ba5673\">759de2e</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/ad5788ba3df1c4f4160478bf59727e26fbe5ef6c\">ad5788b</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/708c592e63e1aa7300f1cb4b2fd91e59c9d948c1\">708c592</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/6d5c76fb1aa3cdff6ab47d1380f843b3de33c5f0\">6d5c76f</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/e5da3a5d09f1b3a298fcc3ba7b42e806116ca5a0\">e5da3a5</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/63c32bf108fede061f28af2f24a690c75983c39e\">63c32bf</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
