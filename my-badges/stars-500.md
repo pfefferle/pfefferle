@@ -29,11 +29,11 @@ Repos:
 * <a href="https://github.com/pfefferle/dash-microformats2">pfefferle/dash-microformats2: ★8</a>
 * <a href="https://github.com/javiercasares/WordPress-Hosting-Handbook">javiercasares/WordPress-Hosting-Handbook: ★8</a>
 * <a href="https://github.com/pfefferle/wordpress-twtxt">pfefferle/wordpress-twtxt: ★8</a>
+* <a href="https://github.com/pfefferle/wordpress-pretty-feeds">pfefferle/wordpress-pretty-feeds: ★8</a>
 * <a href="https://github.com/pfefferle/wordpress-hashtags">pfefferle/wordpress-hashtags: ★7</a>
 * <a href="https://github.com/pfefferle/wordpress-open-search-document">pfefferle/wordpress-open-search-document: ★7</a>
 * <a href="https://github.com/pfefferle/wordpress-webactions">pfefferle/wordpress-webactions: ★7</a>
 * <a href="https://github.com/indieweb/wordpress-mf2-feed">indieweb/wordpress-mf2-feed: ★7</a>
-* <a href="https://github.com/pfefferle/wordpress-pretty-feeds">pfefferle/wordpress-pretty-feeds: ★7</a>
 * <a href="https://github.com/pfefferle/dash-slimframework">pfefferle/dash-slimframework: ★6</a>
 * <a href="https://github.com/pfefferle/wordpress-indie-pubsubhubbub">pfefferle/wordpress-indie-pubsubhubbub: ★6</a>
 * <a href="https://github.com/pfefferle/wordpress-well-known-feeds">pfefferle/wordpress-well-known-feeds: ★6</a>
