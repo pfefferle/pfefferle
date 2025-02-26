@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/pfefferle/openwebicons">pfefferle/openwebicons: ★852</a>
-* <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★507</a>
+* <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★508</a>
 * <a href="https://github.com/pfefferle/SemPress">pfefferle/SemPress: ★143</a>
 * <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★118</a>
 * <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★98</a>
@@ -14,10 +14,10 @@ Repos:
 * <a href="https://github.com/voxpelli/node-webmention-testpinger">voxpelli/node-webmention-testpinger: ★47</a>
 * <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★46</a>
 * <a href="https://github.com/pfefferle/.editorconfigs">pfefferle/.editorconfigs: ★43</a>
-* <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★37</a>
+* <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★38</a>
 * <a href="https://github.com/fediverse-devnet/feditest">fediverse-devnet/feditest: ★35</a>
-* <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky: ★33</a>
 * <a href="https://github.com/WebOrganics/TransFormr">WebOrganics/TransFormr: ★32</a>
+* <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky: ★32</a>
 * <a href="https://github.com/indieweb/wordpress-indieauth">indieweb/wordpress-indieauth: ★31</a>
 * <a href="https://github.com/pfefferle/wordpress-semantic-linkbacks">pfefferle/wordpress-semantic-linkbacks: ★31</a>
 * <a href="https://github.com/pfefferle/atom-php-cs-fixer">pfefferle/atom-php-cs-fixer: ★28</a>
