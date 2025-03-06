@@ -1,3 +1,16 @@
+# Hi there 👋
+
+![ASCII version of me](ascii-green.gif "ASCII version of me")
+
+## Latest Blog Posts 📚 (🇩🇪)
+<!-- BLOG-POST-LIST:START -->
+- [Ein bisschen Buch](https://notiz.blog/2025/02/26/ein-bisschen-buch/)
+- [KrautPress Website Club](https://notiz.blog/2025/02/24/krautpress-website-club/)
+- [Open Web Conversations](https://notiz.blog/2025/02/20/open-web-conversations/)
+- [FediDEM](https://notiz.blog/2025/02/11/fedidem/)
+- [𝍤𝍤𝍤𝍣](https://notiz.blog/2024/12/07/19/)
+<!-- BLOG-POST-LIST:END -->
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
@@ -38,16 +51,3 @@
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <!-- my-badges end -->
-
-# Hi there 👋
-
-![ASCII version of me](ascii-green.gif "ASCII version of me")
-
-## Latest Blog Posts 📚 (🇩🇪)
-<!-- BLOG-POST-LIST:START -->
-- [Ein bisschen Buch](https://notiz.blog/2025/02/26/ein-bisschen-buch/)
-- [KrautPress Website Club](https://notiz.blog/2025/02/24/krautpress-website-club/)
-- [Open Web Conversations](https://notiz.blog/2025/02/20/open-web-conversations/)
-- [FediDEM](https://notiz.blog/2025/02/11/fedidem/)
-- [𝍤𝍤𝍤𝍣](https://notiz.blog/2024/12/07/19/)
-<!-- BLOG-POST-LIST:END -->
