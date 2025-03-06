@@ -11,7 +11,7 @@
 - [𝍤𝍤𝍤𝍣](https://notiz.blog/2024/12/07/19/)
 <!-- BLOG-POST-LIST:END -->
 
-Badges, badges, badges...
+## Badges, badges, badges...
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
