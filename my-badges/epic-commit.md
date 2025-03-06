@@ -9,6 +9,7 @@ Commits:
 - <a href="https://github.com/pfefferle/skill-homeassistant/commit/d530a58a0f486238fc079246483262a4a29d37c2">d530a58</a>
 - <a href="https://github.com/pfefferle/skill-homeassistant/commit/b2c1d4ef57e28000856942ce65985a57bcf9667f">b2c1d4e</a>
 - <a href="https://github.com/pfefferle/skill-homeassistant/commit/df9aae9fc5b2c691690cbe9811a1f32b6561405c">df9aae9</a>
+- <a href="https://github.com/Automattic/wordpress-activitypub/commit/e3edb2f61902d1322cb848b116f159c119ecf432">e3edb2f</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/dd73fb02b7ca209bea1a67df43a5a1035b1a2560">dd73fb0</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/f0bb381a904a3c0cbf3cdc0977eff99ce2029912">f0bb381</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/007877cf32f2d85ff70a449b4c97f072fc82aa63">007877c</a>
