@@ -51,8 +51,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 6 times.",
-    "body": "- <a href=\"https://github.com/pfefferle/yigg/commit/86e7054b7258f83f2b45190a41d808deada326a4\">86e7054b7258f83f2b45190a41d808<strong>dead</strong>a326a4</a>\n- <a href=\"https://github.com/pfefferle/wordpress-semantic-linkbacks/commit/deadcac4b6f6637ed0624fde5bece49d5d331b92\"><strong>dead</strong>cac4b6f6637ed0624fde5bece49d5d331b92</a>\n- <a href=\"https://github.com/indieweb/wordpress-indieauth/commit/13a881c350be14a38b001b3d2f36dead620a3cb2\">13a881c350be14a38b001b3d2f36<strong>dead</strong>620a3cb2</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/3f6048537de3851508009ddedead9496a3764b19\">3f6048537de3851508009dde<strong>dead</strong>9496a3764b19</a>\n- <a href=\"https://github.com/pfefferle/SemPress/commit/4f5845ea6c7e3fdead5129a215c52b6ea42df5d6\">4f5845ea6c7e3f<strong>dead</strong>5129a215c52b6ea42df5d6</a>\n- <a href=\"https://github.com/pfefferle/wordpress-salmon/commit/f3038354513e3af458a7401c9b4deada95ea9bda\">f3038354513e3af458a7401c9b4<strong>dead</strong>a95ea9bda</a>",
+    "desc": "I pushed a commit with \"dead\" 7 times.",
+    "body": "- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c\">54a07db7ff73<strong>dead</strong>c2ea429ab843fee0870ef87c</a>\n- <a href=\"https://github.com/pfefferle/yigg/commit/86e7054b7258f83f2b45190a41d808deada326a4\">86e7054b7258f83f2b45190a41d808<strong>dead</strong>a326a4</a>\n- <a href=\"https://github.com/pfefferle/wordpress-semantic-linkbacks/commit/deadcac4b6f6637ed0624fde5bece49d5d331b92\"><strong>dead</strong>cac4b6f6637ed0624fde5bece49d5d331b92</a>\n- <a href=\"https://github.com/indieweb/wordpress-indieauth/commit/13a881c350be14a38b001b3d2f36dead620a3cb2\">13a881c350be14a38b001b3d2f36<strong>dead</strong>620a3cb2</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/3f6048537de3851508009ddedead9496a3764b19\">3f6048537de3851508009dde<strong>dead</strong>9496a3764b19</a>\n- <a href=\"https://github.com/pfefferle/SemPress/commit/4f5845ea6c7e3fdead5129a215c52b6ea42df5d6\">4f5845ea6c7e3f<strong>dead</strong>5129a215c52b6ea42df5d6</a>\n- <a href=\"https://github.com/pfefferle/wordpress-salmon/commit/f3038354513e3af458a7401c9b4deada95ea9bda\">f3038354513e3af458a7401c9b4<strong>dead</strong>a95ea9bda</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 1239 times)\n2. added (used 912 times)\n3. merge (used 825 times)\n4. add (used 789 times)\n5. update (used 782 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 1241 times)\n2. added (used 915 times)\n3. merge (used 825 times)\n4. add (used 791 times)\n5. update (used 782 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/759de2e0e33989b5c78bdf4f7cb14629e1ba5673\">759de2e</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/ad5788ba3df1c4f4160478bf59727e26fbe5ef6c\">ad5788b</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/708c592e63e1aa7300f1cb4b2fd91e59c9d948c1\">708c592</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/6d5c76fb1aa3cdff6ab47d1380f843b3de33c5f0\">6d5c76f</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/e5da3a5d09f1b3a298fcc3ba7b42e806116ca5a0\">e5da3a5</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/63c32bf108fede061f28af2f24a690c75983c39e\">63c32bf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c\">54a07db</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/759de2e0e33989b5c78bdf4f7cb14629e1ba5673\">759de2e</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/ad5788ba3df1c4f4160478bf59727e26fbe5ef6c\">ad5788b</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/708c592e63e1aa7300f1cb4b2fd91e59c9d948c1\">708c592</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/6d5c76fb1aa3cdff6ab47d1380f843b3de33c5f0\">6d5c76f</a>\n- <a href=\"https://github.com/pfefferle/wordpress-open-search-document/commit/e5da3a5d09f1b3a298fcc3ba7b42e806116ca5a0\">e5da3a5</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
