@@ -20,9 +20,9 @@ Repos:
 * <a href="https://github.com/indieweb/wordpress-uf2">indieweb/wordpress-uf2: ★23</a>
 * <a href="https://github.com/pfefferle/wordpress-opengraph">pfefferle/wordpress-opengraph: ★22</a>
 * <a href="https://github.com/pfefferle/awesome-indieweb">pfefferle/awesome-indieweb: ★20</a>
+* <a href="https://github.com/pfefferle/wordpress-webfinger">pfefferle/wordpress-webfinger: ★18</a>
 * <a href="https://github.com/pfefferle/php-pubsubhubbub">pfefferle/php-pubsubhubbub: ★18</a>
 * <a href="https://github.com/pfefferle/wordpress-nodeinfo">pfefferle/wordpress-nodeinfo: ★18</a>
-* <a href="https://github.com/pfefferle/wordpress-webfinger">pfefferle/wordpress-webfinger: ★17</a>
 * <a href="https://github.com/indieweb/wordpress-indieweb-press-this">indieweb/wordpress-indieweb-press-this: ★16</a>
 * <a href="https://github.com/wapuugotchi/wapuugotchi">wapuugotchi/wapuugotchi: ★16</a>
 * <a href="https://github.com/pfefferle/wordpress-well-known">pfefferle/wordpress-well-known: ★14</a>
