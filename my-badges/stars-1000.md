@@ -29,13 +29,13 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-activitystream-extension">pfefferle/wordpress-activitystream-extension: ★13</a>
 * <a href="https://github.com/OpenSourceOrg/dotOrg">OpenSourceOrg/dotOrg: ★11</a>
 * <a href="https://github.com/acegiak/Semantic-Linkbacks">acegiak/Semantic-Linkbacks: ★10</a>
+* <a href="https://github.com/pfefferle/wordpress-rss-club">pfefferle/wordpress-rss-club: ★10</a>
 * <a href="https://github.com/pfefferle/wordpress-salmon">pfefferle/wordpress-salmon: ★9</a>
 * <a href="https://github.com/pfefferle/wordpress-indie-cite">pfefferle/wordpress-indie-cite: ★9</a>
 * <a href="https://github.com/pfefferle/node-webmention-testendpoint">pfefferle/node-webmention-testendpoint: ★9</a>
 * <a href="https://github.com/pfefferle/wordpress-webmention-for-comments">pfefferle/wordpress-webmention-for-comments: ★9</a>
 * <a href="https://github.com/pfefferle/dash-apidoc">pfefferle/dash-apidoc: ★9</a>
 * <a href="https://github.com/pfefferle/SenPress">pfefferle/SenPress: ★9</a>
-* <a href="https://github.com/pfefferle/wordpress-rss-club">pfefferle/wordpress-rss-club: ★9</a>
 * <a href="https://github.com/pfefferle/OExchangeNet">pfefferle/OExchangeNet: ★8</a>
 * <a href="https://github.com/pfefferle/wordpress-oembed-provider">pfefferle/wordpress-oembed-provider: ★8</a>
 * <a href="https://github.com/pfefferle/dash-microformats2">pfefferle/dash-microformats2: ★8</a>
