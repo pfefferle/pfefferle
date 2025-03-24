@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 1309 times)\n2. added (used 925 times)\n3. add (used 835 times)\n4. merge (used 827 times)\n5. update (used 794 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 1312 times)\n2. added (used 925 times)\n3. add (used 835 times)\n4. merge (used 827 times)\n5. update (used 794 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/003a5ff6736a6ad603e1b7463b7558b14cf861fe\">003a5ff</a>: Fix site-health check (#1487)\n\n* Fix site-health check\n\n* Add changelog\n\n* fix phpcs\n\n* Update includes/wp-admin/class-health-check.php\n\nCo-authored-by: Konstantin Obenland <obenland@gmx.de>\n\n* Update includes/wp-admin/class-health-check.php\n\nCo-authored-by: Konstantin Obenland <obenland@gmx.de>\n\n* Update includes/wp-admin/class-health-check.php\n\nCo-authored-by: Konstantin Obenland <obenland@gmx.de>\n\n* Fix PHPDoc\n\n* Fix the bad advice I gave @pfefferle 🫣\n\n---------\n\nCo-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>\nCo-authored-by: Konstantin Obenland <obenland@gmx.de>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/38d02b1cb9c993ea4bb90910661321a038c47806\">38d02b1</a>: Fix avatar issue on WP.com (#1491)\n\n* Fix avatar issue on WP.com\n\n`wp-content/plugins/activitypub/5.4.1/includes/class-activitypub.php`:\nAttempt to read property \"comment_ID\" on string\n\n* Add changelog\n\n---------\n\nCo-authored-by: Calypso Bot <sysops+ghmatticbot@automattic.com>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/03ac97587da9ec9d13f261a4882bc5a00a6a527b\">03ac975</a>: Fixed: Do not escape slashes in `json_encode` (#1488)\n\n* Fixed: Do not escape slashes\n\n* Add changelog\n\n* Add missing punctuation\n\n---------\n\nCo-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/wordpress-crossbooster/commit/f0e4389ab1d24a49303b8318a26a2c66c8e2b040\">f0e4389</a>: fix inputs\n- <a href=\"https://github.com/pfefferle/wordpress-crossbooster/commit/f296dc455b95405efb3eadb8419b6c5148c76555\">f296dc4</a>: fix settings\n- <a href=\"https://github.com/pfefferle/wordpress-crossbooster/commit/1d70a3321fc9807e5572c6e7ac40c43bcd6c0824\">1d70a33</a>: Fix code",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {

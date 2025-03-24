@@ -4,57 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/Automattic/wordpress-activitypub/commit/003a5ff6736a6ad603e1b7463b7558b14cf861fe">003a5ff</a>: Fix site-health check (#1487)
-
-* Fix site-health check
-
-* Add changelog
-
-* fix phpcs
-
-* Update includes/wp-admin/class-health-check.php
-
-Co-authored-by: Konstantin Obenland <obenland@gmx.de>
-
-* Update includes/wp-admin/class-health-check.php
-
-Co-authored-by: Konstantin Obenland <obenland@gmx.de>
-
-* Update includes/wp-admin/class-health-check.php
-
-Co-authored-by: Konstantin Obenland <obenland@gmx.de>
-
-* Fix PHPDoc
-
-* Fix the bad advice I gave @pfefferle 🫣
-
----------
-
-Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-Co-authored-by: Konstantin Obenland <obenland@gmx.de>
-- <a href="https://github.com/Automattic/wordpress-activitypub/commit/38d02b1cb9c993ea4bb90910661321a038c47806">38d02b1</a>: Fix avatar issue on WP.com (#1491)
-
-* Fix avatar issue on WP.com
-
-`wp-content/plugins/activitypub/5.4.1/includes/class-activitypub.php`:
-Attempt to read property "comment_ID" on string
-
-* Add changelog
-
----------
-
-Co-authored-by: Calypso Bot <sysops+ghmatticbot@automattic.com>
-- <a href="https://github.com/Automattic/wordpress-activitypub/commit/03ac97587da9ec9d13f261a4882bc5a00a6a527b">03ac975</a>: Fixed: Do not escape slashes in `json_encode` (#1488)
-
-* Fixed: Do not escape slashes
-
-* Add changelog
-
-* Add missing punctuation
-
----------
-
-Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+- <a href="https://github.com/pfefferle/wordpress-crossbooster/commit/f0e4389ab1d24a49303b8318a26a2c66c8e2b040">f0e4389</a>: fix inputs
+- <a href="https://github.com/pfefferle/wordpress-crossbooster/commit/f296dc455b95405efb3eadb8419b6c5148c76555">f296dc4</a>: fix settings
+- <a href="https://github.com/pfefferle/wordpress-crossbooster/commit/1d70a3321fc9807e5572c6e7ac40c43bcd6c0824">1d70a33</a>: Fix code
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
