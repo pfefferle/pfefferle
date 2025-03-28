@@ -64,7 +64,6 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-wcard">pfefferle/wordpress-wcard: ★4</a>
 * <a href="https://github.com/pfefferle/indie-wapuu">pfefferle/indie-wapuu: ★4</a>
 * <a href="https://github.com/florianbrinkmann/wp-meetup-stuttgart-podcast">florianbrinkmann/wp-meetup-stuttgart-podcast: ★4</a>
-* <a href="https://github.com/pfefferle/wordpress-crossbooster">pfefferle/wordpress-crossbooster: ★4</a>
 * <a href="https://github.com/pfefferle/wordpress-noisepress">pfefferle/wordpress-noisepress: ★3</a>
 * <a href="https://github.com/pfefferle/wordpress-humanstxt">pfefferle/wordpress-humanstxt: ★3</a>
 * <a href="https://github.com/pfefferle/wordpress-license">pfefferle/wordpress-license: ★3</a>
@@ -77,6 +76,7 @@ Repos:
 * <a href="https://github.com/pfefferle/wcfra-2016-talk">pfefferle/wcfra-2016-talk: ★3</a>
 * <a href="https://github.com/pfefferle/notiz.blog">pfefferle/notiz.blog: ★3</a>
 * <a href="https://github.com/SmonSE/anySport">SmonSE/anySport: ★3</a>
+* <a href="https://github.com/pfefferle/wordpress-crossbooster">pfefferle/wordpress-crossbooster: ★3</a>
 * <a href="https://github.com/pfefferle/opengraph">pfefferle/opengraph: ★2</a>
 * <a href="https://github.com/pfefferle/chrome-activity">pfefferle/chrome-activity: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-hackr-rank">pfefferle/wordpress-hackr-rank: ★2</a>
