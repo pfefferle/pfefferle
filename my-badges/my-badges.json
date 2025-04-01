@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 1328 times)\n2. added (used 925 times)\n3. add (used 859 times)\n4. merge (used 827 times)\n5. update (used 804 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 1328 times)\n2. added (used 925 times)\n3. add (used 859 times)\n4. merge (used 828 times)\n5. update (used 804 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -248,7 +248,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/8348bfd763806688e1a2ca9ae0dab2e43d470b7b\">8348bfd</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/e3edb2f61902d1322cb848b116f159c119ecf432\">e3edb2f</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4d5797fbc75b7e67195a9b2cb38734e076149b6e\">4d5797f</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/30f97a0f272c104ddb5707132d7843c6bcae25d1\">30f97a0</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/b075cf32f41e5f2c907703191581a9e1ae41b421\">b075cf3</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/d0692e43f4d434862093a03a09809b567b3ac16c\">d0692e4</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/b022733b5dd4cd45dcd584e8173fac948358fb68\">b022733</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/8348bfd763806688e1a2ca9ae0dab2e43d470b7b\">8348bfd</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/e3edb2f61902d1322cb848b116f159c119ecf432\">e3edb2f</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4d5797fbc75b7e67195a9b2cb38734e076149b6e\">4d5797f</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/30f97a0f272c104ddb5707132d7843c6bcae25d1\">30f97a0</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/b075cf32f41e5f2c907703191581a9e1ae41b421\">b075cf3</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
