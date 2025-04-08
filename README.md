@@ -4,11 +4,11 @@
 
 ## Latest Blog Posts 📚 (🇩🇪)
 <!-- BLOG-POST-LIST:START -->
-- [neunetzcast 96: Threads und die Zukunft von ActivityPub bei WordPress.com](https://openwebpodcast.de/1883/neunetzcast-96/)
-- [neunetzcast 94: Mastodon und ActivityPub haben den Tipping-Point überschritten](https://openwebpodcast.de/1882/neunetzcast-94/)
-- [neunetzcast 93: Was wir unter Dezentralität verstehen und was wir uns davon erhoffen](https://openwebpodcast.de/1881/neunetzcast-93/)
-- [neunetzcast 86: Was machen W3C und co. für dezentrale Social Networks?](https://openwebpodcast.de/1880/neunetzcast-86/)
-- [Hier & Jetzt – Open Web 7: Dezentrales Twitter und dezentrales Clubhouse?](https://openwebpodcast.de/1879/hier-und-jetzt-open-web-7/)
+- [Blogtastisch: 2. Blogs und das Fediverse](https://notiz.blog/2025/03/24/blogtastisch-2-blogs-und-das-fediverse/)
+- [Ein bisschen Buch](https://notiz.blog/2025/02/26/ein-bisschen-buch/)
+- [KrautPress Website Club](https://notiz.blog/2025/02/24/krautpress-website-club/)
+- [Open Web Conversations](https://notiz.blog/2025/02/20/open-web-conversations/)
+- [FediDEM](https://notiz.blog/2025/02/11/fedidem/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Badges, badges, badges...
