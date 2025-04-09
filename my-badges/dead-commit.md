@@ -1,7 +1,8 @@
-<img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; 7 times." title="I pushed a commit with &quot;dead&quot; 7 times." width="128">
-<strong>I pushed a commit with &quot;dead&quot; 7 times.</strong>
+<img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; 8 times." title="I pushed a commit with &quot;dead&quot; 8 times." width="128">
+<strong>I pushed a commit with &quot;dead&quot; 8 times.</strong>
 <br><br>
 
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c">54a07db7ff73<strong>dead</strong>c2ea429ab843fee0870ef87c</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c">54a07db7ff73<strong>dead</strong>c2ea429ab843fee0870ef87c</a>
 - <a href="https://github.com/pfefferle/yigg/commit/86e7054b7258f83f2b45190a41d808deada326a4">86e7054b7258f83f2b45190a41d808<strong>dead</strong>a326a4</a>
 - <a href="https://github.com/pfefferle/wordpress-semantic-linkbacks/commit/deadcac4b6f6637ed0624fde5bece49d5d331b92"><strong>dead</strong>cac4b6f6637ed0624fde5bece49d5d331b92</a>

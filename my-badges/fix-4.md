@@ -4,12 +4,28 @@
 
 Commits:
 
-- <a href="https://github.com/akirk/enable-mastodon-apps/commit/cb49288f811b9b0a00bc127ae8379e2a1234fb89">cb49288</a>: fix search
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/b022733b5dd4cd45dcd584e8173fac948358fb68">b022733</a>: Fix: Properly traverse the object hierarchy to get the ID (#1518)
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/6b40f0d5f6d3ce83fe2bc13e4e5833ae32b24b4c">6b40f0d</a>: Fix: Do not send self-replies (#1517)
 
-and add escaping
-- <a href="https://github.com/akirk/enable-mastodon-apps/commit/83cdbee9709c9ccbf349ce1bad8eb313ee54a7cc">83cdbee</a>: fix pagination
-- <a href="https://github.com/akirk/enable-mastodon-apps/commit/df9c3a5c06c6bf9d20e8e29c2f1a43e9d3368d2f">df9c3a5</a>: fix search entity
-- <a href="https://github.com/akirk/enable-mastodon-apps/commit/703451d26b70b848e21cff10032dfa591b666391">703451d</a>: fix error when status_array is empty
+* Fix: Do not send self-replies
+
+* Add changelog
+
+* fix phpcs
+
+* improve tests
+
+props @obenland
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/7e1c9e14729ac4e578deb88de0a2c1ccede81fea">7e1c9e1</a>: Fix: Delete Undone comments instead of trashing them (#1520)
+
+* Fix: Delete Undone comments instead of trashing them
+
+* Add changelog
+
+---------
+
+Co-authored-by: Automattic Bot <sysops+ghmatticbot@automattic.com>
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/93630017325512bacfad3d6b79128d6c3aca4fd1">9363001</a>: Fix: Set proper default, to show Welcome screen by default (#1512)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

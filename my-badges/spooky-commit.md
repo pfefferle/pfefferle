@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/512330fa42a400d415cf37d4fedb1681087e9600">512330f</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/512330fa42a400d415cf37d4fedb1681087e9600">512330f</a>
 - <a href="https://github.com/pfefferle/wordpress-appearances/commit/9e5f063e43d22bf15eb25afcf60807e1f268efac">9e5f063</a>
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/2f5f0d698eee068ab46262d7be17158b89d2bdf0">2f5f0d6</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/2f5f0d698eee068ab46262d7be17158b89d2bdf0">2f5f0d6</a>
-- <a href="https://github.com/Automattic/wordpress-activitypub/commit/8a227c7cad62a9ff28afda039829628e5feef465">8a227c7</a>
-- <a href="https://github.com/Automattic/wordpress-activitypub/commit/a30a64c3fa601b3c6fc0e7126ff16025f24cad5e">a30a64c</a>
-- <a href="https://github.com/pfefferle/webfinger-cli/commit/69999612907c671b99a59634f48d7dfeebf35378">6999961</a>
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/8a227c7cad62a9ff28afda039829628e5feef465">8a227c7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

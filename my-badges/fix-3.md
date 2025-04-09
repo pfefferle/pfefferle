@@ -4,9 +4,23 @@
 
 Commits:
 
-- <a href="https://github.com/pfefferle/wordpress-crossbooster/commit/f0e4389ab1d24a49303b8318a26a2c66c8e2b040">f0e4389</a>: fix inputs
-- <a href="https://github.com/pfefferle/wordpress-crossbooster/commit/f296dc455b95405efb3eadb8419b6c5148c76555">f296dc4</a>: fix settings
-- <a href="https://github.com/pfefferle/wordpress-crossbooster/commit/1d70a3321fc9807e5572c6e7ac40c43bcd6c0824">1d70a33</a>: Fix code
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/9ae732fdef79e86be5fdf1287097024560bc58c1">9ae732f</a>: Fix: Use specified time formatting for Outbox Activities (#1537)
+
+* Fix timestamp for Outbox Activities
+
+* Add changelog
+
+* Add const
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/217e98c472577447e1bd0477dda5c0b45b3b7277">217e98c</a>: Fix: Default value for empty `movedTo` field (#1539)
+
+* Fix: Default value for empty `movedTo` field
+
+* Add changelog
+
+* fix phpcs issues
+
+* Add unit test
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/30a00537f95b919245ab3576831c9c24b277a406">30a0053</a>: Fix: Post Interactions settings (#1540)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
