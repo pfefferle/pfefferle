@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★514</a>
 * <a href="https://github.com/pfefferle/SemPress">pfefferle/SemPress: ★143</a>
 * <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★118</a>
-* <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★98</a>
+* <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★99</a>
 * <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★81</a>
 * <a href="https://github.com/indieweb/wordpress-micropub">indieweb/wordpress-micropub: ★52</a>
 * <a href="https://github.com/voxpelli/node-webmention-testpinger">voxpelli/node-webmention-testpinger: ★47</a>
@@ -22,10 +22,10 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-semantic-linkbacks">pfefferle/wordpress-semantic-linkbacks: ★31</a>
 * <a href="https://github.com/pfefferle/atom-php-cs-fixer">pfefferle/atom-php-cs-fixer: ★28</a>
 * <a href="https://github.com/pfefferle/wordpress-ostatus">pfefferle/wordpress-ostatus: ★25</a>
+* <a href="https://github.com/indieweb/wordpress-uf2">indieweb/wordpress-uf2: ★24</a>
 * <a href="https://github.com/pfefferle/wordpress-opengraph">pfefferle/wordpress-opengraph: ★23</a>
-* <a href="https://github.com/indieweb/wordpress-uf2">indieweb/wordpress-uf2: ★23</a>
 * <a href="https://github.com/pfefferle/awesome-indieweb">pfefferle/awesome-indieweb: ★20</a>
-* <a href="https://github.com/pfefferle/wordpress-webfinger">pfefferle/wordpress-webfinger: ★18</a>
+* <a href="https://github.com/pfefferle/wordpress-webfinger">pfefferle/wordpress-webfinger: ★19</a>
 * <a href="https://github.com/pfefferle/php-pubsubhubbub">pfefferle/php-pubsubhubbub: ★18</a>
 * <a href="https://github.com/pfefferle/wordpress-nodeinfo">pfefferle/wordpress-nodeinfo: ★18</a>
 * <a href="https://github.com/indieweb/wordpress-indieweb-press-this">indieweb/wordpress-indieweb-press-this: ★16</a>
