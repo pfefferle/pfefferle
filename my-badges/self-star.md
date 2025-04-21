@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 93 my own repositories." title="I&apos;ve starred 93 my own repositories." width="128">
-<strong>I&apos;ve starred 93 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 94 my own repositories." title="I&apos;ve starred 94 my own repositories." width="128">
+<strong>I&apos;ve starred 94 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/pfefferle/wordpress-host-meta">pfefferle/wordpress-host-meta</a>
@@ -95,6 +95,7 @@
 - <a href="https://github.com/pfefferle/mycroft-mark2-wyoming-satellite">pfefferle/mycroft-mark2-wyoming-satellite</a>
 - <a href="https://github.com/pfefferle/HumanMarkup">pfefferle/HumanMarkup</a>
 - <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky</a>
+- <a href="https://github.com/pfefferle/M5-AtomS3-palnagotchi">pfefferle/M5-AtomS3-palnagotchi</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
