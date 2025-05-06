@@ -4,6 +4,10 @@
 
 Commits:
 
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/1e4f79576630818b7ba75ae221db6ae784a3ba33">1e4f795</a>
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/79aa437fe46eabfc58b09e4089b6f582ebaf644c">79aa437</a>
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/19d0ea17ab58a27a7b4cede0d764f376e7e64f8e">19d0ea1</a>
+- <a href="https://github.com/pfefferle/wordpress-activitypub/commit/1e396a7bf878776f47b4cef706a0cc0531d12018">1e396a7</a>
 - <a href="https://github.com/pfefferle/wordpress-activitypub/commit/e7bb8fd7370ee47c67c83faed44c4119974172dc">e7bb8fd</a>
 - <a href="https://github.com/pfefferle/wordpress-activitypub/commit/baa0cede7379a17c79f6e8497fcf70661104f03e">baa0ced</a>
 - <a href="https://github.com/pfefferle/wordpress-activitypub/commit/01ca03437e939c9c589c6bc7d57e1680530201e2">01ca034</a>
