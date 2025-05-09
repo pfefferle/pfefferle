@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 2253 times)\n2. add (used 1557 times)\n3. update (used 1223 times)\n4. added (used 1034 times)\n5. merge (used 931 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 2253 times)\n2. add (used 1558 times)\n3. update (used 1223 times)\n4. added (used 1034 times)\n5. merge (used 935 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -248,7 +248,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/ff39b13af65f0c131f2cb9b8e069574b79a381ca\">ff39b13</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/1d89b045577c752cfdd6b73603896de6a652750b\">1d89b04</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/dc20109dbcef82a40838b979e07de371108a71b0\">dc20109</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/24f4b5bd19c5ac967163240cacd5bab34ac83edf\">24f4b5b</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/7ea5a13b3f3df7246a3feb5ed5d39b5d09346efe\">7ea5a13</a>\n- <a href=\"https://github.com/pfefferle/M5-AtomS3-palnagotchi/commit/7ea5a13b3f3df7246a3feb5ed5d39b5d09346efe\">7ea5a13</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/0e9bf2cf7a47f3e81d3eee7a1a5d8030cb83abf1\">0e9bf2c</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/edee5741a366fd4c3befb7c875b80e3433fdaf5e\">edee574</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/ff39b13af65f0c131f2cb9b8e069574b79a381ca\">ff39b13</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/1d89b045577c752cfdd6b73603896de6a652750b\">1d89b04</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/dc20109dbcef82a40838b979e07de371108a71b0\">dc20109</a>\n- <a href=\"https://github.com/pfefferle/homeygotchi/commit/24f4b5bd19c5ac967163240cacd5bab34ac83edf\">24f4b5b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
