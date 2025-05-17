@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Automattic/wordpress-activitypub/commit/f2e2babddfa85be2dcbd0ce0312438327ffd985e">f2e2bab</a>
 - <a href="https://github.com/pfefferle/wordpress-activitypub-snippets/commit/bb9e0871d1240fb48921dab931c97e340bda0ab2">bb9e087</a>
 - <a href="https://github.com/pfefferle/minigotchi-ESP32/commit/8f27d255085f134e5698de02c11ad8d0d39b5442">8f27d25</a>
 - <a href="https://github.com/pfefferle/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965">b704d95</a>
 - <a href="https://github.com/Automattic/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965">b704d95</a>
 - <a href="https://github.com/pfefferle/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c">54a07db</a>
-- <a href="https://github.com/Automattic/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c">54a07db</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

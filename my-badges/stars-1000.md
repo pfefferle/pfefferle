@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★82</a>
+* <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★81</a>
 * <a href="https://github.com/indieweb/wordpress-micropub">indieweb/wordpress-micropub: ★52</a>
 * <a href="https://github.com/voxpelli/node-webmention-testpinger">voxpelli/node-webmention-testpinger: ★47</a>
 * <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★46</a>
