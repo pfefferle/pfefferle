@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 2259 times)\n2. add (used 1560 times)\n3. update (used 1223 times)\n4. added (used 1034 times)\n5. merge (used 937 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 2259 times)\n2. add (used 1562 times)\n3. update (used 1223 times)\n4. added (used 1034 times)\n5. merge (used 937 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -241,7 +241,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/f2e2babddfa85be2dcbd0ce0312438327ffd985e\">f2e2bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub-snippets/commit/bb9e0871d1240fb48921dab931c97e340bda0ab2\">bb9e087</a>\n- <a href=\"https://github.com/pfefferle/minigotchi-ESP32/commit/8f27d255085f134e5698de02c11ad8d0d39b5442\">8f27d25</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965\">b704d95</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965\">b704d95</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/54a07db7ff73deadc2ea429ab843fee0870ef87c\">54a07db</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/8479c497eeffdd20687567bc097ac201d5c2a470\">8479c49</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/f2e2babddfa85be2dcbd0ce0312438327ffd985e\">f2e2bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub-snippets/commit/bb9e0871d1240fb48921dab931c97e340bda0ab2\">bb9e087</a>\n- <a href=\"https://github.com/pfefferle/minigotchi-ESP32/commit/8f27d255085f134e5698de02c11ad8d0d39b5442\">8f27d25</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965\">b704d95</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965\">b704d95</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
