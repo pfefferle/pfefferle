@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 2259 times)\n2. add (used 1562 times)\n3. update (used 1223 times)\n4. added (used 1034 times)\n5. merge (used 937 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 2266 times)\n2. add (used 1571 times)\n3. update (used 1226 times)\n4. added (used 1034 times)\n5. merge (used 938 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,14 +234,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/6422a00368eed0cbe7fa538fab55f4e4c9f5568e\">6422a00</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/8479c497eeffdd20687567bc097ac201d5c2a470\">8479c49</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/f2e2babddfa85be2dcbd0ce0312438327ffd985e\">f2e2bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub-snippets/commit/bb9e0871d1240fb48921dab931c97e340bda0ab2\">bb9e087</a>\n- <a href=\"https://github.com/pfefferle/minigotchi-ESP32/commit/8f27d255085f134e5698de02c11ad8d0d39b5442\">8f27d25</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965\">b704d95</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/b704d95cb4905f544557cb18aff8450174ee5965\">b704d95</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/8479c497eeffdd20687567bc097ac201d5c2a470\">8479c49</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/8479c497eeffdd20687567bc097ac201d5c2a470\">8479c49</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/f2e2babddfa85be2dcbd0ce0312438327ffd985e\">f2e2bab</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/f2e2babddfa85be2dcbd0ce0312438327ffd985e\">f2e2bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub-snippets/commit/bb9e0871d1240fb48921dab931c97e340bda0ab2\">bb9e087</a>\n- <a href=\"https://github.com/pfefferle/minigotchi-ESP32/commit/8f27d255085f134e5698de02c11ad8d0d39b5442\">8f27d25</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
