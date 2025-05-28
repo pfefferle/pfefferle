@@ -121,6 +121,7 @@ Repos:
 * <a href="https://github.com/SmonSE/powerM">SmonSE/powerM: ★1</a>
 * <a href="https://github.com/pfefferle/wcle-2023-talk">pfefferle/wcle-2023-talk: ★1</a>
 * <a href="https://github.com/akirk/wcde-2023-presentation">akirk/wcde-2023-presentation: ★1</a>
+* <a href="https://github.com/social-web-foundation/swf-wordpress-theme">social-web-foundation/swf-wordpress-theme: ★1</a>
 * <a href="https://github.com/scripting/wordlandSupport">scripting/wordlandSupport: ★1</a>
 * <a href="https://github.com/pfefferle/M5-AtomS3-palnagotchi">pfefferle/M5-AtomS3-palnagotchi: ★1</a>
 * <a href="https://github.com/pfefferle/bruce-pwnagotchi-theme">pfefferle/bruce-pwnagotchi-theme: ★1</a>
