@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 2266 times)\n2. add (used 1573 times)\n3. update (used 1227 times)\n4. added (used 1036 times)\n5. merge (used 938 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 2266 times)\n2. add (used 1573 times)\n3. update (used 1227 times)\n4. added (used 1036 times)\n5. merge (used 939 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -248,7 +248,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/m5-palnagotchi/commit/376025d79ce1924c5e0b92c010a46d8d13348fbe\">376025d</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/0e9bf2cf7a47f3e81d3eee7a1a5d8030cb83abf1\">0e9bf2c</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/edee5741a366fd4c3befb7c875b80e3433fdaf5e\">edee574</a>\n- <a href=\"https://github.com/pfefferle/pwnugget/commit/ff39b13af65f0c131f2cb9b8e069574b79a381ca\">ff39b13</a>\n- <a href=\"https://github.com/pfefferle/pwnugget/commit/1d89b045577c752cfdd6b73603896de6a652750b\">1d89b04</a>\n- <a href=\"https://github.com/pfefferle/pwnugget/commit/dc20109dbcef82a40838b979e07de371108a71b0\">dc20109</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/m5-palnagotchi/commit/70c6014d2781e39547ae7486a21ceb2394fb6874\">70c6014</a>\n- <a href=\"https://github.com/pfefferle/m5-palnagotchi/commit/a1698d09acb1fccfa8f10b3215ed7d74412d240f\">a1698d0</a>\n- <a href=\"https://github.com/pfefferle/m5-palnagotchi/commit/376025d79ce1924c5e0b92c010a46d8d13348fbe\">376025d</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/0e9bf2cf7a47f3e81d3eee7a1a5d8030cb83abf1\">0e9bf2c</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/edee5741a366fd4c3befb7c875b80e3433fdaf5e\">edee574</a>\n- <a href=\"https://github.com/pfefferle/pwnugget/commit/ff39b13af65f0c131f2cb9b8e069574b79a381ca\">ff39b13</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
