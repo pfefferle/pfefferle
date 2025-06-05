@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 2268 times)\n2. add (used 1573 times)\n3. update (used 1228 times)\n4. added (used 1036 times)\n5. merge (used 939 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 2268 times)\n2. add (used 1573 times)\n3. update (used 1230 times)\n4. added (used 1036 times)\n5. merge (used 941 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/acegiak/Semantic-Linkbacks/issues/15\">#15</a>: Problems with missing \"mentions\"...\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/issues/140\">#140</a>: `admin_register_settings` is not working\n- <a href=\"https://github.com/indieweb/wordpress-indieweb-press-this/issues/11\">#11</a>: readme\n- <a href=\"https://github.com/dshanske/syndication-links/issues/71\">#71</a>: add container\n- <a href=\"https://github.com/indieweb/wordpress-indieweb/issues/139\">#139</a>: The extension page throws some warnings\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/issues/1762\">#1762</a>: Use consistent terminology for 'Blog-User' throughout the code\n- <a href=\"https://github.com/acegiak/Semantic-Linkbacks/issues/15\">#15</a>: Problems with missing \"mentions\"...\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/issues/140\">#140</a>: `admin_register_settings` is not working\n- <a href=\"https://github.com/indieweb/wordpress-indieweb-press-this/issues/11\">#11</a>: readme\n- <a href=\"https://github.com/dshanske/syndication-links/issues/71\">#71</a>: add container\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
