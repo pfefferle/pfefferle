@@ -11,8 +11,8 @@ Repos:
 * <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★99</a>
 * <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★81</a>
 * <a href="https://github.com/indieweb/wordpress-micropub">indieweb/wordpress-micropub: ★52</a>
+* <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★47</a>
 * <a href="https://github.com/voxpelli/node-webmention-testpinger">voxpelli/node-webmention-testpinger: ★47</a>
-* <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★46</a>
 * <a href="https://github.com/pfefferle/.editorconfigs">pfefferle/.editorconfigs: ★44</a>
 * <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★40</a>
 * <a href="https://github.com/fediverse-devnet/feditest">fediverse-devnet/feditest: ★35</a>
