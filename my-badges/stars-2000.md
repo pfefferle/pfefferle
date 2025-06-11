@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/pfefferle/openwebicons">pfefferle/openwebicons: ★853</a>
-* <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★517</a>
+* <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★518</a>
 * <a href="https://github.com/pfefferle/SemPress">pfefferle/SemPress: ★142</a>
 * <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★121</a>
 * <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★99</a>
@@ -93,6 +93,7 @@ Repos:
 * <a href="https://github.com/pfefferle/nostr-verify">pfefferle/nostr-verify: ★2</a>
 * <a href="https://github.com/pfefferle/wcde2023-praesentation">pfefferle/wcde2023-praesentation: ★2</a>
 * <a href="https://github.com/pfefferle/mycroft-mark2-wyoming-satellite">pfefferle/mycroft-mark2-wyoming-satellite: ★2</a>
+* <a href="https://github.com/scripting/wordlandSupport">scripting/wordlandSupport: ★2</a>
 * <a href="https://github.com/pfefferle/bruce-pwnagotchi-theme">pfefferle/bruce-pwnagotchi-theme: ★2</a>
 * <a href="https://github.com/pfefferle/php-xrd">pfefferle/php-xrd: ★1</a>
 * <a href="https://github.com/pfefferle/rel-share">pfefferle/rel-share: ★1</a>
@@ -123,7 +124,6 @@ Repos:
 * <a href="https://github.com/pfefferle/wcle-2023-talk">pfefferle/wcle-2023-talk: ★1</a>
 * <a href="https://github.com/akirk/wcde-2023-presentation">akirk/wcde-2023-presentation: ★1</a>
 * <a href="https://github.com/social-web-foundation/swf-wordpress-theme">social-web-foundation/swf-wordpress-theme: ★1</a>
-* <a href="https://github.com/scripting/wordlandSupport">scripting/wordlandSupport: ★1</a>
 * <a href="https://github.com/pfefferle/wordpress-activitypub">pfefferle/wordpress-activitypub: ★1</a>
 * <a href="https://github.com/pfefferle/M5-AtomS3-palnagotchi">pfefferle/M5-AtomS3-palnagotchi: ★1</a>
 
