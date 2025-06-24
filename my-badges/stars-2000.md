@@ -8,8 +8,8 @@ Repos:
 * <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★524</a>
 * <a href="https://github.com/pfefferle/SemPress">pfefferle/SemPress: ★142</a>
 * <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★121</a>
-* <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★99</a>
-* <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★81</a>
+* <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★100</a>
+* <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★82</a>
 * <a href="https://github.com/indieweb/wordpress-micropub">indieweb/wordpress-micropub: ★52</a>
 * <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★47</a>
 * <a href="https://github.com/voxpelli/node-webmention-testpinger">voxpelli/node-webmention-testpinger: ★47</a>
