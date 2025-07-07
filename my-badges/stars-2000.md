@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/pfefferle/openwebicons">pfefferle/openwebicons: ★853</a>
 * <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★524</a>
 * <a href="https://github.com/pfefferle/SemPress">pfefferle/SemPress: ★143</a>
-* <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★122</a>
+* <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★123</a>
 * <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★100</a>
 * <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★82</a>
 * <a href="https://github.com/indieweb/wordpress-micropub">indieweb/wordpress-micropub: ★52</a>
@@ -16,9 +16,9 @@ Repos:
 * <a href="https://github.com/pfefferle/.editorconfigs">pfefferle/.editorconfigs: ★44</a>
 * <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★40</a>
 * <a href="https://github.com/fediverse-devnet/feditest">fediverse-devnet/feditest: ★35</a>
+* <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky: ★33</a>
 * <a href="https://github.com/WebOrganics/TransFormr">WebOrganics/TransFormr: ★32</a>
 * <a href="https://github.com/indieweb/wordpress-indieauth">indieweb/wordpress-indieauth: ★32</a>
-* <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky: ★32</a>
 * <a href="https://github.com/pfefferle/wordpress-semantic-linkbacks">pfefferle/wordpress-semantic-linkbacks: ★31</a>
 * <a href="https://github.com/pfefferle/atom-php-cs-fixer">pfefferle/atom-php-cs-fixer: ★28</a>
 * <a href="https://github.com/pfefferle/wordpress-ostatus">pfefferle/wordpress-ostatus: ★25</a>
