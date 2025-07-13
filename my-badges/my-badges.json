@@ -73,7 +73,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"fix\".",
-    "body": "My favorite commit message words are:\n\n1. fix (used 2273 times)\n2. add (used 1579 times)\n3. update (used 1231 times)\n4. added (used 1036 times)\n5. merge (used 944 times)",
+    "body": "My favorite commit message words are:\n\n1. fix (used 2274 times)\n2. add (used 1579 times)\n3. update (used 1231 times)\n4. added (used 1036 times)\n5. merge (used 944 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -234,7 +234,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/d16afea99aeeb7bb7be34a1203ffe31a6ba49888\">d16afea</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/68a9baba85b4e40a2cd6b22fe07ebcbecb4bc14f\">68a9bab</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/4a12d746d38c0becc03cabe6ca210caa3f2a55f4\">4a12d74</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/4fae81792b4344c646fc5f60733988080cc958d4\">4fae817</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
