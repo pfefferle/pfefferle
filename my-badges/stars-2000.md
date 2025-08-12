@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/pfefferle/openwebicons">pfefferle/openwebicons: ★853</a>
 * <a href="https://github.com/Automattic/wordpress-activitypub">Automattic/wordpress-activitypub: ★532</a>
 * <a href="https://github.com/pfefferle/SemPress">pfefferle/SemPress: ★143</a>
-* <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★123</a>
+* <a href="https://github.com/pfefferle/wordpress-webmention">pfefferle/wordpress-webmention: ★124</a>
 * <a href="https://github.com/pfefferle/autonomie">pfefferle/autonomie: ★100</a>
 * <a href="https://github.com/indieweb/wordpress-indieweb">indieweb/wordpress-indieweb: ★82</a>
 * <a href="https://github.com/indieweb/wordpress-micropub">indieweb/wordpress-micropub: ★52</a>
