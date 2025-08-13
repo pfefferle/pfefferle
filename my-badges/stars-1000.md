@@ -26,7 +26,7 @@ Repos:
 * <a href="https://github.com/indieweb/wordpress-indieweb-press-this">indieweb/wordpress-indieweb-press-this: ★16</a>
 * <a href="https://github.com/wapuugotchi/wapuugotchi">wapuugotchi/wapuugotchi: ★16</a>
 * <a href="https://github.com/pfefferle/wordpress-well-known">pfefferle/wordpress-well-known: ★14</a>
-* <a href="https://github.com/pfefferle/wordpress-activitystream-extension">pfefferle/wordpress-activitystream-extension: ★13</a>
+* <a href="https://github.com/pfefferle/wordpress-activitystream-extension">pfefferle/wordpress-activitystream-extension: ★14</a>
 * <a href="https://github.com/pfefferle/wordpress-rss-club">pfefferle/wordpress-rss-club: ★11</a>
 * <a href="https://github.com/acegiak/Semantic-Linkbacks">acegiak/Semantic-Linkbacks: ★10</a>
 * <a href="https://github.com/OpenSourceOrg/dotOrg">OpenSourceOrg/dotOrg: ★10</a>
