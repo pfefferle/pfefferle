@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/pfefferle/wordpress-opengraph">pfefferle/wordpress-opengraph: ★23</a>
+* <a href="https://github.com/indieweb/wordpress-uf2">indieweb/wordpress-uf2: ★24</a>
 * <a href="https://github.com/pfefferle/awesome-indieweb">pfefferle/awesome-indieweb: ★20</a>
 * <a href="https://github.com/pfefferle/wordpress-webfinger">pfefferle/wordpress-webfinger: ★19</a>
 * <a href="https://github.com/pfefferle/php-pubsubhubbub">pfefferle/php-pubsubhubbub: ★18</a>

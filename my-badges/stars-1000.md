@@ -17,8 +17,8 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-semantic-linkbacks">pfefferle/wordpress-semantic-linkbacks: ★31</a>
 * <a href="https://github.com/pfefferle/atom-php-cs-fixer">pfefferle/atom-php-cs-fixer: ★28</a>
 * <a href="https://github.com/pfefferle/wordpress-ostatus">pfefferle/wordpress-ostatus: ★25</a>
+* <a href="https://github.com/pfefferle/wordpress-opengraph">pfefferle/wordpress-opengraph: ★24</a>
 * <a href="https://github.com/indieweb/wordpress-uf2">indieweb/wordpress-uf2: ★24</a>
-* <a href="https://github.com/pfefferle/wordpress-opengraph">pfefferle/wordpress-opengraph: ★23</a>
 * <a href="https://github.com/pfefferle/awesome-indieweb">pfefferle/awesome-indieweb: ★20</a>
 * <a href="https://github.com/pfefferle/wordpress-webfinger">pfefferle/wordpress-webfinger: ★19</a>
 * <a href="https://github.com/pfefferle/php-pubsubhubbub">pfefferle/php-pubsubhubbub: ★18</a>
