@@ -14,7 +14,7 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-hum">pfefferle/wordpress-hum: ★48</a>
 * <a href="https://github.com/voxpelli/node-webmention-testpinger">voxpelli/node-webmention-testpinger: ★48</a>
 * <a href="https://github.com/pfefferle/.editorconfigs">pfefferle/.editorconfigs: ★44</a>
-* <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★40</a>
+* <a href="https://github.com/akirk/enable-mastodon-apps">akirk/enable-mastodon-apps: ★41</a>
 * <a href="https://github.com/fediverse-devnet/feditest">fediverse-devnet/feditest: ★35</a>
 * <a href="https://github.com/pfefferle/wordpress-share-on-bluesky">pfefferle/wordpress-share-on-bluesky: ★33</a>
 * <a href="https://github.com/WebOrganics/TransFormr">WebOrganics/TransFormr: ★32</a>
