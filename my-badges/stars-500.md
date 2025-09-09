@@ -22,12 +22,12 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-webmention-for-comments">pfefferle/wordpress-webmention-for-comments: ★9</a>
 * <a href="https://github.com/pfefferle/dash-apidoc">pfefferle/dash-apidoc: ★9</a>
 * <a href="https://github.com/pfefferle/SenPress">pfefferle/SenPress: ★9</a>
+* <a href="https://github.com/pfefferle/wordpress-twtxt">pfefferle/wordpress-twtxt: ★9</a>
 * <a href="https://github.com/pfefferle/wordpress-pretty-feeds">pfefferle/wordpress-pretty-feeds: ★9</a>
 * <a href="https://github.com/pfefferle/OExchangeNet">pfefferle/OExchangeNet: ★8</a>
 * <a href="https://github.com/pfefferle/wordpress-oembed-provider">pfefferle/wordpress-oembed-provider: ★8</a>
 * <a href="https://github.com/pfefferle/dash-microformats2">pfefferle/dash-microformats2: ★8</a>
 * <a href="https://github.com/javiercasares/WordPress-Hosting-Handbook">javiercasares/WordPress-Hosting-Handbook: ★8</a>
-* <a href="https://github.com/pfefferle/wordpress-twtxt">pfefferle/wordpress-twtxt: ★8</a>
 * <a href="https://github.com/pfefferle/wordpress-hashtags">pfefferle/wordpress-hashtags: ★7</a>
 * <a href="https://github.com/pfefferle/wordpress-open-search-document">pfefferle/wordpress-open-search-document: ★7</a>
 * <a href="https://github.com/pfefferle/wordpress-webactions">pfefferle/wordpress-webactions: ★7</a>
