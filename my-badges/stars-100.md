@@ -30,6 +30,7 @@ Repos:
 * <a href="https://github.com/pfefferle/mycroft-mark2-wyoming-satellite">pfefferle/mycroft-mark2-wyoming-satellite: ★2</a>
 * <a href="https://github.com/scripting/wordlandSupport">scripting/wordlandSupport: ★2</a>
 * <a href="https://github.com/pfefferle/M5-AtomS3-palnagotchi">pfefferle/M5-AtomS3-palnagotchi: ★2</a>
+* <a href="https://github.com/pfefferle/Evil-BW16">pfefferle/Evil-BW16: ★2</a>
 * <a href="https://github.com/pfefferle/php-xrd">pfefferle/php-xrd: ★1</a>
 * <a href="https://github.com/pfefferle/rel-share">pfefferle/rel-share: ★1</a>
 * <a href="https://github.com/pfefferle/ProtocolHandler-shim">pfefferle/ProtocolHandler-shim: ★1</a>
@@ -66,7 +67,6 @@ Repos:
 * <a href="https://github.com/pfefferle/minigotchi-ESP32">pfefferle/minigotchi-ESP32: ★1</a>
 * <a href="https://github.com/pfefferle/pwnugget">pfefferle/pwnugget: ★1</a>
 * <a href="https://github.com/pfefferle/wordpress-activitypub-snippets">pfefferle/wordpress-activitypub-snippets: ★1</a>
-* <a href="https://github.com/pfefferle/Evil-BW16">pfefferle/Evil-BW16: ★1</a>
 * <a href="https://github.com/pfefferle/swf-wordpress-theme">pfefferle/swf-wordpress-theme: ★1</a>
 * <a href="https://github.com/pfefferle/m5-palnagotchi">pfefferle/m5-palnagotchi: ★1</a>
 * <a href="https://github.com/pfefferle/M5Stack-json-fw">pfefferle/M5Stack-json-fw: ★1</a>
