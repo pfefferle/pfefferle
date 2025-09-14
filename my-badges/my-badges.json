@@ -278,5 +278,12 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/indieweb/wordpress-indieweb/commit/47be7535eb8c090a4f0be0910c5565cb21610b43\">47be753</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webmention/commit/88eda78da041e8d684b645e4e0c4defecf3bff90\">88eda78</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/51dea3d23b48791a71eb0229fe0e8052b2061869\">51dea3d</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/51dea3d23b48791a71eb0229fe0e8052b2061869\">51dea3d</a>\n- <a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/ad99fdaae41e0a2d65e7123e9bd222351a8648f8\">ad99fda</a>\n- <a href=\"https://github.com/Automattic/wordpress-activitypub/commit/ad99fdaae41e0a2d65e7123e9bd222351a8648f8\">ad99fda</a>\n- <a href=\"https://github.com/pfefferle/wordpress-webfinger/commit/11f0bba884616661f72aac49142ed338698be9b0\">11f0bba</a>\n- <a href=\"https://github.com/pfefferle/atom-php-cs-fixer/commit/bc4e3faf654b5827925db06088d75b235cf5515f\">bc4e3fa</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
