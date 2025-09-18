@@ -4,14 +4,16 @@
 
 Repos:
 
+* <a href="https://github.com/pfefferle/wordpress-license">pfefferle/wordpress-license: ★3</a>
+* <a href="https://github.com/pfefferle/php-websub">pfefferle/php-websub: ★3</a>
+* <a href="https://github.com/pfefferle/safari-subtome">pfefferle/safari-subtome: ★3</a>
+* <a href="https://github.com/pfefferle/wordpress-reply-context">pfefferle/wordpress-reply-context: ★3</a>
 * <a href="https://github.com/pfefferle/wordpress-webmention-form">pfefferle/wordpress-webmention-form: ★3</a>
 * <a href="https://github.com/pfefferle/wordpress-indienews">pfefferle/wordpress-indienews: ★3</a>
 * <a href="https://github.com/pfefferle/wcfra-2016-talk">pfefferle/wcfra-2016-talk: ★3</a>
 * <a href="https://github.com/pfefferle/notiz.blog">pfefferle/notiz.blog: ★3</a>
 * <a href="https://github.com/SmonSE/anySport">SmonSE/anySport: ★3</a>
 * <a href="https://github.com/pfefferle/wordpress-crossbooster">pfefferle/wordpress-crossbooster: ★3</a>
-* <a href="https://github.com/pfefferle/wordpress-activitypub">pfefferle/wordpress-activitypub: ★3</a>
-* <a href="https://github.com/pfefferle/bruce-pwnagotchi-theme">pfefferle/bruce-pwnagotchi-theme: ★3</a>
 * <a href="https://github.com/pfefferle/opengraph">pfefferle/opengraph: ★2</a>
 * <a href="https://github.com/pfefferle/chrome-activity">pfefferle/chrome-activity: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-hackr-rank">pfefferle/wordpress-hackr-rank: ★2</a>
@@ -20,6 +22,7 @@ Repos:
 * <a href="https://github.com/pfefferle/wordpress-openwebicons">pfefferle/wordpress-openwebicons: ★2</a>
 * <a href="https://github.com/pfefferle/alfred-webmention-workflow">pfefferle/alfred-webmention-workflow: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-oexchange">pfefferle/wordpress-oexchange: ★2</a>
+* <a href="https://github.com/pfefferle/webfinger-cli">pfefferle/webfinger-cli: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-simple-foaf">pfefferle/wordpress-simple-foaf: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-dandelion">pfefferle/wordpress-dandelion: ★2</a>
 * <a href="https://github.com/pfefferle/skill-homeassistant">pfefferle/skill-homeassistant: ★2</a>
@@ -29,8 +32,8 @@ Repos:
 * <a href="https://github.com/pfefferle/wcde2023-praesentation">pfefferle/wcde2023-praesentation: ★2</a>
 * <a href="https://github.com/pfefferle/mycroft-mark2-wyoming-satellite">pfefferle/mycroft-mark2-wyoming-satellite: ★2</a>
 * <a href="https://github.com/scripting/wordlandSupport">scripting/wordlandSupport: ★2</a>
-* <a href="https://github.com/pfefferle/M5-AtomS3-palnagotchi">pfefferle/M5-AtomS3-palnagotchi: ★2</a>
-* <a href="https://github.com/pfefferle/Evil-BW16">pfefferle/Evil-BW16: ★2</a>
+* <a href="https://github.com/pfefferle/wordpress-activitypub">pfefferle/wordpress-activitypub: ★2</a>
+* <a href="https://github.com/pfefferle/bruce-pwnagotchi-theme">pfefferle/bruce-pwnagotchi-theme: ★2</a>
 * <a href="https://github.com/pfefferle/php-xrd">pfefferle/php-xrd: ★1</a>
 * <a href="https://github.com/pfefferle/rel-share">pfefferle/rel-share: ★1</a>
 * <a href="https://github.com/pfefferle/ProtocolHandler-shim">pfefferle/ProtocolHandler-shim: ★1</a>
@@ -56,20 +59,12 @@ Repos:
 * <a href="https://github.com/pfefferle/wp0711-2020-08-talk">pfefferle/wp0711-2020-08-talk: ★1</a>
 * <a href="https://github.com/pfefferle/wpbn-no-46">pfefferle/wpbn-no-46: ★1</a>
 * <a href="https://github.com/pfefferle/dewp-planet-feed">pfefferle/dewp-planet-feed: ★1</a>
-* <a href="https://github.com/pfefferle/pfefferle">pfefferle/pfefferle: ★1</a>
 * <a href="https://github.com/SmonSE/powerM">SmonSE/powerM: ★1</a>
 * <a href="https://github.com/pfefferle/wcle-2023-talk">pfefferle/wcle-2023-talk: ★1</a>
 * <a href="https://github.com/akirk/wcde-2023-presentation">akirk/wcde-2023-presentation: ★1</a>
-* <a href="https://github.com/pfefferle/extension-command">pfefferle/extension-command: ★1</a>
 * <a href="https://github.com/social-web-foundation/swf-wordpress-theme">social-web-foundation/swf-wordpress-theme: ★1</a>
-* <a href="https://github.com/pfefferle/bsky-docs">pfefferle/bsky-docs: ★1</a>
-* <a href="https://github.com/pfefferle/fedidb-communityDB">pfefferle/fedidb-communityDB: ★1</a>
-* <a href="https://github.com/pfefferle/minigotchi-ESP32">pfefferle/minigotchi-ESP32: ★1</a>
-* <a href="https://github.com/pfefferle/pwnugget">pfefferle/pwnugget: ★1</a>
-* <a href="https://github.com/pfefferle/wordpress-activitypub-snippets">pfefferle/wordpress-activitypub-snippets: ★1</a>
-* <a href="https://github.com/pfefferle/swf-wordpress-theme">pfefferle/swf-wordpress-theme: ★1</a>
-* <a href="https://github.com/pfefferle/m5-palnagotchi">pfefferle/m5-palnagotchi: ★1</a>
-* <a href="https://github.com/pfefferle/M5Stack-json-fw">pfefferle/M5Stack-json-fw: ★1</a>
+* <a href="https://github.com/pfefferle/M5-AtomS3-palnagotchi">pfefferle/M5-AtomS3-palnagotchi: ★1</a>
+* <a href="https://github.com/pfefferle/Evil-BW16">pfefferle/Evil-BW16: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
