@@ -76,6 +76,7 @@ Repos:
 * <a href="https://github.com/pfefferle/notiz.blog">pfefferle/notiz.blog: ★3</a>
 * <a href="https://github.com/SmonSE/anySport">SmonSE/anySport: ★3</a>
 * <a href="https://github.com/pfefferle/wordpress-crossbooster">pfefferle/wordpress-crossbooster: ★3</a>
+* <a href="https://github.com/pfefferle/bruce-pwnagotchi-theme">pfefferle/bruce-pwnagotchi-theme: ★3</a>
 * <a href="https://github.com/pfefferle/opengraph">pfefferle/opengraph: ★2</a>
 * <a href="https://github.com/pfefferle/chrome-activity">pfefferle/chrome-activity: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-hackr-rank">pfefferle/wordpress-hackr-rank: ★2</a>
@@ -95,7 +96,6 @@ Repos:
 * <a href="https://github.com/pfefferle/mycroft-mark2-wyoming-satellite">pfefferle/mycroft-mark2-wyoming-satellite: ★2</a>
 * <a href="https://github.com/scripting/wordlandSupport">scripting/wordlandSupport: ★2</a>
 * <a href="https://github.com/pfefferle/wordpress-activitypub">pfefferle/wordpress-activitypub: ★2</a>
-* <a href="https://github.com/pfefferle/bruce-pwnagotchi-theme">pfefferle/bruce-pwnagotchi-theme: ★2</a>
 * <a href="https://github.com/pfefferle/php-xrd">pfefferle/php-xrd: ★1</a>
 * <a href="https://github.com/pfefferle/rel-share">pfefferle/rel-share: ★1</a>
 * <a href="https://github.com/pfefferle/ProtocolHandler-shim">pfefferle/ProtocolHandler-shim: ★1</a>
